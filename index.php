@@ -53,7 +53,6 @@
         
         <a id="prev" class="prev">❮</a>
         <a id="next" class="next">❯</a>
-
           <?php 
             include_once "pridaj_pozdrav.php"
             ?>
